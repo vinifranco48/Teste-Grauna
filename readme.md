@@ -72,7 +72,7 @@ Indicadores com Pontos Deixados:
 ## Meta Venda: 
 5 pontos deixados. Apesar de ter um bom desempenho (20/25), há margem para melhorar as vendas.
 ## Share BH: 
-2 pontos deixados. Indicando que a partilha de BH não atingiu completamente a meta.
+2 pontos deixados. Indicando que a Share BH não atingiu completamente a meta.
 ## Seguros: 
 2 pontos deixados. Este indicador teve o desempenho mais baixo relativo aos pontos possíveis, sugerindo que o setor de seguros precisa de atenção.
 
