@@ -79,7 +79,8 @@ Indicadores com Pontos Deixados:
 ## Áreas de Melhor Desempenho:
 
 Prog. de Excelência, SSI, CEC: Estes indicadores alcançaram a pontuação máxima e são áreas de grande desempenho e sucesso.
-Áreas para Melhorar:
+
+## Áreas para Melhorar:
 
 ## Seguros: 
 Com apenas 1 ponto ganho dos 3 possíveis, esta área mostra a maior necessidade de melhoria.
